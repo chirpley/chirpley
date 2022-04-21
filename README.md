@@ -1,8 +1,7 @@
-<p align="center">
+<p align="center" style="color: green">
   <img src="https://github.com/chirpley/chirpley/raw/main/tokenbanner.png" />
 </p>
-
-## Chirpley is the world’s first automated, peer-to-peer, all-in-one influencer marketplace specifically focussed on nano and micro influencers. Chirpley will provide marketers with the freedom to act fast and effective, thanks to the possibility of a 1-click marketing bomb. <br>
+<h2>Chirpley is the world’s first automated, peer-to-peer, all-in-one influencer marketplace specifically focussed on nano and micro influencers. Chirpley will provide marketers with the freedom to act fast and effective, thanks to the possibility of a 1-click marketing bomb. <br></h2>
 
 <br>
 
